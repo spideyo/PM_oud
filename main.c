@@ -4,7 +4,7 @@ int main()
 {
     printf("Hello, World!aaa\n");
 
-    printf("W pierwszym branchu 2+3=", Policz(2,3));
+    printf("1W pierwszym branchu 2+3=", Policz(2,3));
     return 0;
 }
 
